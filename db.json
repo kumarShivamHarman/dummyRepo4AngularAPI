@@ -1,1 +1,48 @@
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram",
+      "email": "ram@test.com",
+      "phone": "887766"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "email": "sam@test.com",
+      "phone": "7762386"
+    },
+    {
+      "id": 3,
+      "name": "Alex",
+      "email": "alex@test.com",
+      "phone": "6690866"
+    },
+    {
+      "id": 4,
+      "name": "Nnn",
+      "email": "nnn@test.com",
+      "phone": "887766"
+    },
+    {
+      "name": "Kumar Shivam",
+      "email": "Kumar.Shivam@Harman.Com",
+      "phone": "8877410060",
+      "id": 5
+    }
+  ]
+}
